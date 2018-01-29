@@ -16,6 +16,8 @@ This is just a demo project for GitHub
 
 ## How to Contribute
 
+Please fork this repository and issue Pull req for review
+
 ### Copyright 2018 JW
 
 2018 Git.Training
