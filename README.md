@@ -15,3 +15,7 @@ This is just a demo project for GitHub
 
 
 ## How to Contribute
+
+### Copyright 2018 JW
+
+2018 Git.Training
